@@ -1,6 +1,6 @@
 ### Hi there, I'm Valerija - aka [valerijaziv][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.cicakshop.rs)
+[![Website](https://www.cicakshop.rs)](https://www.cicakshop.rs)
 
 
 ## I'm a Student, Developer, and Teacher!!
